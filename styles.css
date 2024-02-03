@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	justify-content:space-between;
+	align-items: center;
+}
+.container>div{
+	text-align: center;
+}
+img{
+	width: 60%;
+	height: 300px;
+	object-fit: cover;
+}
+button{
+	padding: 10px;
+	background-color: orange;
+	color: white;
+	border-radius: 20px;
+	
+}
