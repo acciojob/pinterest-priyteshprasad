@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.container{
+.hero{
 	display:flex;
 	justify-content:space-between;
 	align-items: center;
 }
-.container>div{
+.hero>div{
 	text-align: center;
 }
 img{
